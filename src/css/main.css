@@ -427,13 +427,19 @@ video {
   }
 
   .hero-content p {
+    font-size: 21px;
     margin: 23.8px auto;
-    max-width: 600px;
+    max-width: 599px;
+    max-height: 101px;
+    margin-bottom: 40px;
   }
 
   .cta-button {
-    align-self: auto;
-    j
+    align-items: center;
+    max-width: 240px;
+    padding: 20px 40px;
+    font-size: 19px;
+    font-weight: 700;
+    margin-top: 20px;
   }
 }
-
